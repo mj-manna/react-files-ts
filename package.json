@@ -1,0 +1,31 @@
+{
+  "name": "react-files-ts",
+  "version": "0.0.3",
+  "description": "A file input (dropzone) management component for React",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "component",
+    "file",
+    "files",
+    "input",
+    "dropzone"
+  ],
+  "author": "Doracone",
+  "license": "MIT",
+  "private": false,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "@types/react": "^19.0.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}

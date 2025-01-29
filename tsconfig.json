@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react", // or "react-jsx" for React 17+
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "target": "es5", // You can adjust this as needed
+    "module": "esnext",
+    "declaration": true,
+    "outDir": "./dist",
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

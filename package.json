@@ -1,6 +1,6 @@
 {
   "name": "react-files-ts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A file input (dropzone) management component for React",
   "scripts": {
     "build": "tsc"
@@ -19,6 +19,14 @@
   "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/mj-manna/react-files-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mj-manna/react-files-ts.git"
+  },
+  "homepage": "https://github.com/mj-manna/react-files-ts",
   "devDependencies": {
     "@types/node": "^22.10.7",
     "@types/react": "^19.0.7",
